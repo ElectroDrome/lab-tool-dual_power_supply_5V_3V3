@@ -83,10 +83,6 @@ When substituting with the **L7805CV**, the maximum current output at **5 V is
 
 ---
 
-Let me know when you're ready to add a diagram or chart showing voltage curves across different resistor values. I can whip something up! 📐📈
-
-
-
 ## 📐 PCB Layout Highlights
 
 - Labeled input/output terminals  
